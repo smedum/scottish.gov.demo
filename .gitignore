@@ -1,0 +1,14 @@
+# Environment files
+.env
+.env.local
+
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+.cache/
+
+# Database
+*.db
+*.sqlite
